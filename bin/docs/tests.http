@@ -1,0 +1,12 @@
+GET {{url}}/leagues?token=notTooSecret
+Accept: application/json
+Content-Type: application/json
+
+###
+
+GET {{url}}/leagues
+Accept: application/json
+Content-Type: application/json
+token: notTooSecret
+
+###
